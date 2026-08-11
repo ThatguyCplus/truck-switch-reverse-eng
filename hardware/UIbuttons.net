@@ -1,0 +1,4379 @@
+(export
+	(version "E")
+	(design
+		(source "UIbuttons.kicad_sch")
+		(date "2026-08-10T21:16:21")
+		(tool "Eeschema 10.0.0")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "UIbuttons.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "+Downhill1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c4b144f3-e7ee-4df7-aafb-61478c556520")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "BigCruise+1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "94dd382c-d22e-4f96-8b2b-0a7a1d953818")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "BigCruise-1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "045928fd-7bd7-41e9-8cc2-7e5d08e94b15")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "CancelCruiseControl1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e3101573-6825-463f-8ba1-eac562e150ac")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "CancelDownhillControl1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "13589d22-a910-4b80-8988-54144d9959ae")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "DecreaseFollowDistance1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a320f156-6cd2-4613-9c87-1facdad5b8cb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "DownHill-1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "85adb0d0-6825-4307-b909-a1083a13d734")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IncreaseFollowDistance1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0d2c0313-b17b-45f2-8f75-42fd9f7005d8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "5600200620")
+			(footprint "CONN_SD-560020-001_06_MOL")
+			(datasheet "https://www.molex.com/en-us/products/part-detail-pdf/5600200620?display=pdf")
+			(fields
+				(field
+					(name "Footprint") "CONN_SD-560020-001_06_MOL")
+				(field
+					(name "Datasheet") "https://www.molex.com/en-us/products/part-detail-pdf/5600200620?display=pdf")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "molex6p")
+				(part "5600200620")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "5600200620")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CONN_SD-560020-001_06_MOL")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bc73f1da-bd30-4371-9f5a-08ed4580688a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "MNT1")
+						)
+						(pin
+							(num "MNT2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED1")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "30dd5b15-36d1-440d-86bb-f3dce54834d0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED2")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "06c02a52-53ce-4cf9-b51d-a27797786f57")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED3")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8ed7c063-66d5-4a18-84f3-1cb60da9a2a7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED4")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "224c4522-257b-4e48-9472-51c1c4f08e92")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED5")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "bbf2bc8d-7d15-4585-9cbc-fc15583d17ff")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED6")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "5311a005-14b1-48c9-80ff-9414a92e2404")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED7")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "49a07650-92fa-45c5-a019-243783a15868")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED8")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "982d3acc-6d44-49f7-b260-8261a5b92be3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED9")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2fd9c88e-c855-44b5-9dd9-9bff3a44afff")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "LED10")
+			(value "LED_1206_White")
+			(footprint "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_LED_AKL")
+				(part "LED_1206_White")
+				(description "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "white LED diode generic smd 1206")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "97ed356d-813f-4300-aa43-4c43f31f6f42")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R1")
+			(value "391")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "8b30827e-76ad-4e95-a1dc-55f80c35b39d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R2")
+			(value "151")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ed031a03-71ad-495e-9c9a-5b7954e491f8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "1000")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0f0b4346-5286-46e5-94a0-e1e07254984e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "620")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b2d4d0b9-bca9-439f-a51c-f59423bb0b89")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "391")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0440df67-256f-4e7a-bc68-72f144131213")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R6")
+			(value "151")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e4408158-f6a6-4b9d-840f-14e3ac9078cd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R7")
+			(value "1000")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0af90a43-599e-48ff-b260-c23c5e32db4f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R8")
+			(value "620")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "e3d9f0af-d3f4-4099-ba94-88da470469fe")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R9")
+			(value "391")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1c696535-253b-4f73-80ce-f03b58fabc6c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10")
+			(value "151")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a693a0cd-6d65-423b-8200-ce386851c47d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R11")
+			(value "1000")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "66f0ef97-fe21-4d4d-bb64-6f8174354336")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R12")
+			(value "620")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a37d28a6-a4a6-4430-a90d-e7ace0e00b3f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R13")
+			(value "202")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "38fd4687-0cc5-48e6-b24a-001f1fdb130d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R14")
+			(value "202")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c240be4f-b401-400e-b4ad-d8946811be83")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R15")
+			(value "202")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "a0620c3c-99d7-4953-be32-10a3baf9f910")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R16")
+			(value "331")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0808c36b-eb01-4efb-83b1-a819675fbcdf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R17")
+			(value "681")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "51ba1597-4423-4d2c-af24-5c82280ac987")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R18")
+			(value "361")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "817735e8-4505-4b64-9348-c0f5f90a5d00")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R19")
+			(value "301")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "94972494-f9b5-4079-a965-3d124d40c147")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R20")
+			(value "621")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "182b242b-14f0-409d-a3dd-3635db627d71")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R21")
+			(value "681")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "23c6365d-92ba-416c-b036-ee79478aa75e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R22")
+			(value "471")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c89eb0e6-b5f6-46fa-b8bb-14cd844e84a6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R23")
+			(value "391")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "0548e6fd-6741-4096-b66c-f33ba28b7222")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R24")
+			(value "681")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "46962e86-06dc-428b-8fd1-89e2ed21904b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R25")
+			(value "331")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "76f68811-395d-454b-9234-fa96727ad116")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R26")
+			(value "392")
+			(footprint "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(fields
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(libsource
+				(lib "PCM_Resistor_US_AKL")
+				(part "R_0805")
+				(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor us smd 0805")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "807e0dcf-9afc-4d92-926d-ee529e526120")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "ResumeCruiseControl1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "93a18fef-19a9-4850-ae95-62192a007dda")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "ResumeDownHillControl1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "9e4b25ea-c771-4aea-84a0-9f4d61f34dff")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SmallCruise+1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1b337ac4-483b-4b45-92af-f3898cc16112")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SmallCruise-1")
+			(value "Push_Button")
+			(footprint "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Footprint") "PCM_SparkFun-Switch:Push_SMD_6x3.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(libsource
+				(lib "PCM_SL_Devices")
+				(part "Push_Button")
+				(description "Common 6mmx6mm Push Button")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Switch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "41504302-e299-4878-8b31-f2c818da6a74")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP1")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "762b5933-2365-49ac-93b3-31d08562109a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP2")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "cddd818f-372b-40d3-a99f-bc4aca9bf077")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP3")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2fddb397-8e07-491f-85ce-3d9fb8b1bc4c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP4")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "4e31ee34-4671-482d-b0e1-8e4c1e4f13c6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP5")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "3f584ae9-a93f-4793-87c3-77fb92d7ec62")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP6")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "97580fdb-66b2-4717-8482-52ff230b1ee2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP7")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c9914ba1-aba8-4e2b-9dde-fa74685599e8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP8")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "b4eea7f5-f527-4b20-bf6d-da2e77e8ff8c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP9")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "1eb5fa30-9a73-45de-9646-7fd57f757d2d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP10")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "c7f77829-daf1-495c-b5d1-bbd467b21c97")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP11")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "ff43c1c9-e2c8-4664-95c5-a92cd90c0fa0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP12")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "02934429-0318-48c5-bafa-40ab8a44f4a8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP13")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "dc64708f-8321-4e3e-86d2-1fbd2555df9d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TP14")
+			(value "TestPoint")
+			(footprint "TestPoint:TestPoint_Pad_D1.5mm")
+			(description "test point")
+			(fields
+				(field
+					(name "Footprint") "TestPoint:TestPoint_Pad_D1.5mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(libsource
+				(lib "Connector")
+				(part "TestPoint")
+				(description "test point")
+			)
+			(property
+				(name "Sheetname")
+				(value "")
+			)
+			(property
+				(name "Sheetfile")
+				(value "UIbuttons.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "test point tp")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Pin* Test*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "2da766f9-f502-4ada-aaf9-6f767cce61f6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "Connector")
+			(part "TestPoint")
+			(description "test point")
+			(footprints
+				(fp "Pin*")
+				(fp "Test*")
+			)
+			(fields
+				(field
+					(name "Reference") "TP")
+				(field
+					(name "Value") "TestPoint")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "test point")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_LED_AKL")
+			(part "LED_1206_White")
+			(description "White SMD LED, 1206, Alternate KiCad Library")
+			(footprints
+				(fp "LED*")
+				(fp "LED_SMD:*")
+				(fp "LED_THT:*")
+			)
+			(fields
+				(field
+					(name "Reference") "LED")
+				(field
+					(name "Value") "LED_1206_White")
+				(field
+					(name "Footprint") "PCM_LED_SMD_AKL:LED_1206_3216Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "White SMD LED, 1206, Alternate KiCad Library")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_Resistor_US_AKL")
+			(part "R_0805")
+			(description "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R_0805")
+				(field
+					(name "Footprint") "PCM_Resistor_SMD_AKL:R_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "SMD 0805 Chip Resistor, US Symbol, Alternate KiCad Library")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "PCM_SL_Devices")
+			(part "Push_Button")
+			(description "Common 6mmx6mm Push Button")
+			(fields
+				(field
+					(name "Reference") "SW")
+				(field
+					(name "Value") "Push_Button")
+				(field
+					(name "Footprint") "Button_Switch_THT:SW_PUSH_6mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Common 6mmx6mm Push Button")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "molex6p")
+			(part "5600200620")
+			(docs "https://www.molex.com/en-us/products/part-detail-pdf/5600200620?display=pdf")
+			(footprints
+				(fp "CONN_SD-560020-001_06_MOL")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "5600200620")
+				(field
+					(name "Footprint") "CONN_SD-560020-001_06_MOL")
+				(field
+					(name "Datasheet") "https://www.molex.com/en-us/products/part-detail-pdf/5600200620?display=pdf")
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "3")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "4")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "5")
+					(type "unspecified")
+				)
+				(pin
+					(num "6")
+					(name "6")
+					(type "unspecified")
+				)
+				(pin
+					(num "MNT1")
+					(name "MNT1")
+					(type "unspecified")
+				)
+				(pin
+					(num "MNT2")
+					(name "MNT2")
+					(type "unspecified")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "Connector")
+			(uri "${KICAD9_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "PCM_LED_AKL")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/LED_AKL.kicad_sym")
+		)
+		(library
+			(logical "PCM_Resistor_US_AKL")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_dawidcislo_alternate-kicad-library/Resistor_US_AKL.kicad_sym")
+		)
+		(library
+			(logical "PCM_SL_Devices")
+			(uri "${KICAD10_3RD_PARTY}/symbols/com_github_Sajitha-Aldeniya_KiCad-Simple-Libraries/SL_Devices.kicad_sym")
+		)
+		(library
+			(logical "molex6p")
+			(uri "KiCADv6")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "+Downhill1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "BigCruise+1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "BigCruise-1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "CancelCruiseControl1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "CancelDownhillControl1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "DecreaseFollowDistance1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "DownHill-1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "IncreaseFollowDistance1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "J1")
+				(pin "5")
+				(pinfunction "5_5")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "J1")
+				(pin "MNT1")
+				(pinfunction "MNT1_MNT1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "J1")
+				(pin "MNT2")
+				(pinfunction "MNT2_MNT2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R13")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R14")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R15")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "ResumeCruiseControl1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "ResumeDownHillControl1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SmallCruise+1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SmallCruise-1")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "2")
+			(name "Net-(+Downhill1-Pad1)")
+			(class "Default")
+			(node
+				(ref "+Downhill1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP11")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "Net-(BigCruise+1-Pad2)")
+			(class "Default")
+			(node
+				(ref "BigCruise+1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP5")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "4")
+			(name "Net-(BigCruise-1-Pad2)")
+			(class "Default")
+			(node
+				(ref "BigCruise-1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP2")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "5")
+			(name "Net-(CancelCruiseControl1-Pad1)")
+			(class "Default")
+			(node
+				(ref "CancelCruiseControl1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R7")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R8")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP8")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "Net-(CancelDownhillControl1-Pad2)")
+			(class "Default")
+			(node
+				(ref "CancelDownhillControl1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R11")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R12")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP13")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "7")
+			(name "Net-(DecreaseFollowDistance1-Pad1)")
+			(class "Default")
+			(node
+				(ref "DecreaseFollowDistance1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP10")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "8")
+			(name "Net-(DownHill-1-Pad1)")
+			(class "Default")
+			(node
+				(ref "DownHill-1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R11")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP12")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "Net-(IncreaseFollowDistance1-Pad2)")
+			(class "Default")
+			(node
+				(ref "IncreaseFollowDistance1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R7")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP9")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "Net-(J1-Pad1)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R16")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R17")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R18")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R19")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R20")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R21")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R22")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R23")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R24")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R25")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R26")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "Net-(J1-Pad2)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R13")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "Net-(J1-Pad3)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R14")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R8")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "13")
+			(name "Net-(J1-Pad4)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "4")
+				(pinfunction "4_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R12")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R15")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "14")
+			(name "Net-(LED1-A)")
+			(class "Default")
+			(node
+				(ref "LED1")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R16")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "15")
+			(name "Net-(LED1-K)")
+			(class "Default")
+			(node
+				(ref "J1")
+				(pin "6")
+				(pinfunction "6_6")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "LED1")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED10")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED2")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED3")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED4")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED5")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED6")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED7")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED8")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED9")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R26")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "16")
+			(name "Net-(LED2-A)")
+			(class "Default")
+			(node
+				(ref "LED2")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R17")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "Net-(LED3-A)")
+			(class "Default")
+			(node
+				(ref "LED3")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R18")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "Net-(LED4-A)")
+			(class "Default")
+			(node
+				(ref "LED4")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R19")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "Net-(LED5-A)")
+			(class "Default")
+			(node
+				(ref "LED5")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R20")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "20")
+			(name "Net-(LED6-A)")
+			(class "Default")
+			(node
+				(ref "LED6")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R21")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "21")
+			(name "Net-(LED7-A)")
+			(class "Default")
+			(node
+				(ref "LED7")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R22")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "22")
+			(name "Net-(LED8-A)")
+			(class "Default")
+			(node
+				(ref "LED8")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R23")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "Net-(LED9-A)")
+			(class "Default")
+			(node
+				(ref "LED9")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R24")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "24")
+			(name "Net-(LED10-A)")
+			(class "Default")
+			(node
+				(ref "LED10")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R25")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "Net-(R1-Pad1)")
+			(class "Default")
+			(node
+				(ref "R1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SmallCruise+1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP4")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "26")
+			(name "Net-(R2-Pad1)")
+			(class "Default")
+			(node
+				(ref "R2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SmallCruise-1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP3")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP6")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "Net-(R5-Pad1)")
+			(class "Default")
+			(node
+				(ref "R5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "ResumeCruiseControl1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP7")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "28")
+			(name "Net-(R10-Pad1)")
+			(class "Default")
+			(node
+				(ref "R10")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "ResumeDownHillControl1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "TP14")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+	)
+)
