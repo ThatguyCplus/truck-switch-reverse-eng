@@ -232,6 +232,10 @@ and reports which one the data actually supports.
 
 ![Diagnostics](docs/screenshot-diagnostics.png)
 
+
+
+https://github.com/user-attachments/assets/56d19fef-1fe3-4a56-b6b1-583ad4992691
+
 ---
 
 ## Repository layout
