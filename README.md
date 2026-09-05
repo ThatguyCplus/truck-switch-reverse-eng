@@ -1,5 +1,8 @@
 # Truck Steering-Wheel Switch Panel — Reverse Engineering
 
+<img width="2519" height="1890" alt="image" src="https://github.com/user-attachments/assets/8d20a846-fb4e-4b1d-9192-128b4377aac3" />
+
+
 Complete reverse engineering of a truck steering-wheel cruise/retarder switch panel:
 schematic, netlist, resistor values, connector pinout, and an Arduino + Python
 toolchain that reads all twelve buttons.
